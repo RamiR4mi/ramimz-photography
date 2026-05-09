@@ -9,20 +9,21 @@ export const metadata = {
 
 export default function PortfolioPage() {
   const portfolioItems = [
-    { id: '1', src: '/images/portfolio-1.jpg', alt: '', width: 4000, height: 6000, title: 'Portraits' },
-    { id: '2', src: '/images/portfolio-2.jpg', alt: '', width: 4000, height: 6000, title: 'Landscapes' },
-    { id: '3', src: '/images/portfolio-3.jpg', alt: '', width: 4000, height: 6000, title: 'Urban' },
-    { id: '4', src: '/images/portfolio-4.jpg', alt: '', width: 4000, height: 6000, title: 'Nature' },
-    { id: '5', src: '/images/portfolio-5.jpg', alt: '', width: 4000, height: 6000, title: 'Interior' },
-    { id: '6', src: '/images/portfolio-6.jpg', alt: '', width: 4000, height: 6000, title: 'Water' },
-    { id: '7', src: '/images/portfolio-7.jpg', alt: '', width: 4000, height: 6000, title: 'Water' },
-    { id: '8', src: '/images/portfolio-8.jpg', alt: '', width: 4000, height: 6000, title: 'Water' },
-    { id: '9', src: '/images/portfolio-9.jpg', alt: '', width: 4000, height: 6000, title: 'Water' },
-    { id: '10', src: '/images/portfolio-10.jpg', alt: '', width: 4000, height: 6000, title: 'Water' },
-    { id: '11', src: '/images/portfolio-11.jpg', alt: '', width: 4000, height: 6000, title: 'Water' },
-    { id: '13', src: '/images/portfolio-13.jpg', alt: '', width: 4000, height: 6000, title: 'Water' },
-    { id: '14', src: '/images/portfolio-14.jpg', alt: '', width: 4000, height: 6000, title: 'Water' },
-    { id: '15', src: '/images/portfolio-15.jpg', alt: '', width: 4000, height: 6000, title: 'Water' }
+    { id: '1', src: '/images/portfolio-1.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '2', src: '/images/portfolio-2.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '3', src: '/images/portfolio-3.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '4', src: '/images/portfolio-4.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '5', src: '/images/portfolio-5.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '6', src: '/images/portfolio-6.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '7', src: '/images/portfolio-7.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '8', src: '/images/portfolio-8.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '9', src: '/images/portfolio-9.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '10', src: '/images/portfolio-10.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '11', src: '/images/portfolio-11.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '13', src: '/images/portfolio-13.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '14', src: '/images/portfolio-14.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '15', src: '/images/portfolio-15.jpg', alt: '', width: 4000, height: 6000, title: '' },
+    { id: '16', src: '/images/portfolio-16.jpg', alt: '', width: 4000, height: 6000, title: '' }
 
   ]
 
